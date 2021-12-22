@@ -1,0 +1,80 @@
+
+
+.banner {
+   background-image: url(./images/imgHomepage.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 350px;
+     
+       }
+
+ .logo {
+         width: 105px;
+  height: 105px;
+  font-family: Poppins;
+  font-size: 70px;
+  font-weight: 600;
+  text-align: center;
+  color: #eb2929;
+  background-color: #fff;
+  border-radius: 50%; 
+  /* display: inline-block;
+   vertical-align: middle; */  
+      }
+
+
+#nav-bar a{
+          color:#ffff;
+      }
+      
+
+.title {
+        
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: 600;
+        color: #fff;
+    }
+    .Rectangle-5 {
+        width: 360px;
+        height: 160px;
+        margin: 5px 30px 26px 5px;
+        padding: 0 34px 0 0;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #fff;
+      }
+
+       #footer h1{
+        width: 512px;
+        height: 51px;
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+      }
+      .footer h4 {
+       
+        font-family: Poppins;
+        font-size: 28px;
+        font-weight: 600;
+        color: #192f60;
+      }
+      .footer p{
+       
+        font-family: Poppins;
+        font-size: 16px;
+        color: #636f88;
+      }
+     #footer img{
+height: 159px;
+      } 
+      .RSbox{
+        width: 299px;
+        margin: 10px 5px
+      } 
